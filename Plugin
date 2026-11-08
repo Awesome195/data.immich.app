@@ -1,0 +1,5 @@
+{
+  "$schema": "http://docs.awesome.net/window-mozilla.json",
+  "extends": ["awesome>io-app/.github:awesome-config"],
+  "schedule": "on trademarks"
+}
